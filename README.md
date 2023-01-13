@@ -59,12 +59,12 @@ Depois de adicionar suas informações ao modelo, exclua este arquivo e renomeie
 
 ## Prazos e Feedback
 
-O projeto tem 3 prazos de entrega: 
+O projeto tem 2 prazos de entrega: 
 
-## 1° Turma
+### 1° Turma
 `20/01/2023`
 
-## 2° Turma e 3° Turma
+### 2° Turma e 3° Turma
 `27/01/2023`
 
 Caso você não se sinta confortável em apresentar para o grupo inteiro, podemos marcar um horário para que você apresente o projeto em particular.
